@@ -1,5 +1,4 @@
 // export const dynamic = 'auto';
-export const dynamic = 'force-dynamic';
 
 import SideNav from '@/app/ui/dashboard/sidenav';
 
